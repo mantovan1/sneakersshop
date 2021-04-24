@@ -8,5 +8,5 @@ Uma simples interface feita em React Native com o tema "loja de tênis"
 ## Tela Inicial
 ![](.assets/app_demonstration/img_2.jpg)
 
-## App favoritado
+## Produto favoritado
 ![](.assets/app_demonstration/img_3.jpg)
