@@ -1,4 +1,4 @@
-# sneakers_shop
+# Sneakers Shop
 
 Uma simples interface feita em React Native com o tema "loja de tênis"
 
