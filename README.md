@@ -10,10 +10,6 @@ Uma simples interface feita em React Native com o tema "loja de tênis"
 
 <img src="./pics/home.png" width="300">
 
-## Produto favoritado
-
-<img src="./pics/favoritado.jpeg" width="300" height="478">
-
 ## Detalhes
 
 <img src="./pics/details.png" width="300">
