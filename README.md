@@ -1,6 +1,6 @@
 # Sneakers Shop
 
-A UI made with React Native with the theme sneakers shop.
+A UI made in React Native with the theme sneakers shop.
 
 ## Splash Screen
 
